@@ -1,0 +1,11 @@
+Use CIFAR-10 Dataset and compare the following ML algorithms.
+a. Support Vector Machine
+b. Random Forests
+c. Decision Tree
+d. Logistic Regression
+2. Use Train-test split as 80% Train and 20% test.
+3. Print the train and test error for your model.
+4. Finally, to gain an understanding of how your models are performing, please score each
+model against three metrics: Precision, Recall and Accuracy.
+5. Plot ROC curve for each model for the comparison of results.
+a. State which ML model is best among the given models based on ROC curve analysis.
